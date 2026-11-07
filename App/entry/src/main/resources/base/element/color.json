@@ -1,0 +1,24 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "brand_primary",
+      "value": "#1F3A5F"
+    },
+    {
+      "name": "brand_secondary",
+      "value": "#2E7D6B"
+    },
+    {
+      "name": "brand_danger",
+      "value": "#C62828"
+    },
+    {
+      "name": "page_background",
+      "value": "#F5F6F8"
+    }
+  ]
+}

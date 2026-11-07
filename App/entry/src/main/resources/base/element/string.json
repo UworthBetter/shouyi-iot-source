@@ -1,0 +1,28 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "独居老人居家安全监测与应急辅助"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "守颐主入口"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "守颐"
+    },
+    {
+      "name": "reason_internet",
+      "value": "用于查询家中设备状态与接收预警信息"
+    },
+    {
+      "name": "reason_network_info",
+      "value": "用于在网络恢复后自动补拉最新数据"
+    },
+    {
+      "name": "reason_vibrate",
+      "value": "用于紧急预警时震动提醒"
+    }
+  ]
+}
